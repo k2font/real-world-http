@@ -18,8 +18,6 @@ jobs:
       with:
         go-version: 1.17
 
-    - name: Build
-      run: go build -v ./...
+    - name: Build Server
+      run: go build -v server/simple-server/main.go
 
-    - name: Test
-      run: go test -v ./...

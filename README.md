@@ -1,4 +1,7 @@
 # real-world-http
+
+[![Go](https://github.com/k2font/real-world-http/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/k2font/real-world-http/actions/workflows/go.yml)
+
 ## これは何?
 - Real World HTTP 第2版を読んで書いたサンプルコード集
 - サンプルWebサーバを立ち上げてからクライアント側を動かします
